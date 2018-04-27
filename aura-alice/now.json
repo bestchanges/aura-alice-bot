@@ -1,0 +1,12 @@
+{
+  "env": {
+    "TO_MAIL": "ourmailbox@mail.ru",
+    "SMTP_SERVER": "smtp.gmail.com",
+    "SMTP_PORT": "465",
+    "SMTP_LOGIN": "bot_mailbox@gmail.com",
+    "SMTP_PASSWORD": "",
+    "FROM_EMAIL": "bot_mailbox@gmail.com",
+    "DEBUG": "0"
+  }
+}
+
