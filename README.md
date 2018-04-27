@@ -2,7 +2,7 @@
 
 # Установка
 
-Установить now.sh
+Установить now.sh (https://zeit.co/)
 
 Перейти в папку "aura-alice"
 
@@ -30,6 +30,12 @@ now alias aura-alice
 
 Указать URL адрес в параметре "WebHook URL"
 
-Настроить все прочие адреса
+Настроить остальные параметры
 
 ![](settings.png)
+
+# Доп информация
+
+https://tech.yandex.ru/dialogs/alice/
+
+https://tech.yandex.ru/dialogs/alice/doc/about-docpage/
